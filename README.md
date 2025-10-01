@@ -4,7 +4,8 @@ Vídeo: https://www.youtube.com/watch?v=Mo9tPEcLdiY&t=1274s&pp=ygUQam92ZW0gdHJhb
 
 Descrição do problema: 
 
-<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/39530294-bf6b-48c8-ac4b-069a91cdcb25" />
+<img width="1317" height="427" alt="image" src="https://github.com/user-attachments/assets/708dd664-8d11-47f3-88a5-a12204e1eb67" />
+
 
 A lógica com a resolução do problema está na classe CustomerReportGenerator. Foi utilizado Java Streams e cumprido todos os outros requisitos do problema.
 
